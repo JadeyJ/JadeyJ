@@ -2,5 +2,5 @@
 
 - 👋 Hi, I’m @JadeyJ
 
-📍 Seoul, South Korea
-📍 London, United Kingdom
+📍 Seoul, South Korea<br/>
+📍 London, United Kingdom<br/>
