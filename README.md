@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @JadeyJ
 
-- Java / Spring
+- Java / Spring / Spring boot
 - JavaScript / Node js / React js
 
 📍 Seoul, South Korea<br/>
